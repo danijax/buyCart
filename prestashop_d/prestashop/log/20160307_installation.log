@@ -1,0 +1,1 @@
+*ERROR* 	2016/03/07 - 01:36:30: SQL error on query <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
