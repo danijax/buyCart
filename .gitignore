@@ -29,6 +29,6 @@ admin-dev/export/
 admin-dev/import/
 download/
 /img/*
-DS_Store
+.DS_Store
 upload/
 Status API Training Shop Blog About Pricing
